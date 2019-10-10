@@ -11,3 +11,4 @@ These are the currently configured scripts for running with NPM.
 * npm run dev - runs /out/server with nodemon.
 * npm run watch - runs the typescript compiler with watch.
 * npm run compile - runs the typescript compiler.
+* npm test  - uses mocha to run all the tests in the test folder.

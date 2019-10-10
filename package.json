@@ -21,6 +21,6 @@
     "dev": "nodemon ./out/server.js",
     "compile": "tsc -p ./",
     "watch": "tsc -watch -p ./",
-    "test": "mocha ./out/tests/tests.js"
+    "test": "mocha ./out/tests --exit"
   }
 }
