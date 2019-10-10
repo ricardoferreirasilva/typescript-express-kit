@@ -39,6 +39,11 @@ jspm_packages/
 # TypeScript v1 declaration files
 typings/
 
+
+# TypeScript output folder.
+out/
+
+
 # Optional npm cache directory
 .npm
 
@@ -59,3 +64,7 @@ typings/
 
 # next.js build output
 .next
+
+# Webstorm folder
+.idea
+
