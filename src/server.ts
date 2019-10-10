@@ -1,11 +1,11 @@
 import express from "express"
-import environment from "dotenv"
+import dotenv from "dotenv"
 
 
 // Configuring environment variables.
-environment.config();
+dotenv.config();
 
-
+// Instancing express.
 const app = express();
 
 // Define a route handler for the default home page
