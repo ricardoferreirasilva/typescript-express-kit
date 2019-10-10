@@ -43,6 +43,8 @@ typings/
 # TypeScript output folder.
 out/
 
+# File with the environment variables.
+.env
 
 # Optional npm cache directory
 .npm
@@ -58,9 +60,6 @@ out/
 
 # Yarn Integrity file
 .yarn-integrity
-
-# dotenv environment variables file
-.env
 
 # next.js build output
 .next

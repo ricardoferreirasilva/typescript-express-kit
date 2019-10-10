@@ -5,6 +5,8 @@
     "sourceMap": true,
     "outDir": "./out",
     "rootDir": "./src",
+    "baseUrl": "node_modules",
+    "esModuleInterop": true,
     "moduleResolution": "node"
   },
   "exclude": [
