@@ -1,9 +1,9 @@
 import express from "express"
-import dotenv from "dotenv"
+import environment from "dotenv"
 
 
 // Configuring environment variables.
-dotenv.config();
+environment.config();
 
 
 const app = express();
